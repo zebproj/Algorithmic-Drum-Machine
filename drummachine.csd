@@ -40,7 +40,7 @@ instr 3
 endin
 </CsInstruments>
 <CsScore>
-#include "examples/drumscore.sco"
+#include "examples/newdrumscore.sco"
 
 ;i1 0 1 1 1 1 1
 
@@ -49,10 +49,10 @@ endin
 <bsbPanel>
  <label>Widgets</label>
  <objectName/>
- <x>72</x>
- <y>179</y>
- <width>400</width>
- <height>200</height>
+ <x>0</x>
+ <y>61</y>
+ <width>252</width>
+ <height>479</height>
  <visible>true</visible>
  <uuid/>
  <bgcolor mode="nobackground">
